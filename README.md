@@ -8,5 +8,5 @@
 	
   ## 	
 
-- 🌱 Estudando Java, STS, MySql
-- 😄 Pronomes: ela/she
+- 💾 Estudando Java, STS, MySql
+- 🤞🏻 Pronomes: ela/she
