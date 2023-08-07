@@ -8,5 +8,5 @@
 	
   ## 	
 
-- 💾 Estudando JavaScript, TypeScrip e React
+- 💾 Estudando JavaScript, TypeScript e React
 - 🤞🏻 Pronomes: ela/dela
